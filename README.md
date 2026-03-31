@@ -34,7 +34,7 @@
 
 ###  外部評価
 - **Findy スキル偏差値: 61**
-[![Findy Skill Score](https://findy-code.io/skills-share/nR0KwIPkJyIaG)
+[![Findy Score 61](https://img.shields.io/badge/Findy_Score-61-green?logo=github&style=flat-square)](https://findy-code.io/skills-share/nR0KwIPkJyIaG)
   - GitHub上のコード品質、テストコードの充実度、および継続的な開発姿勢において、現役エンジニア平均を超える高い評価をいただいています。
 
 ---
