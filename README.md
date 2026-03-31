@@ -1,5 +1,6 @@
 
 ### フロントエンドの「テストのしやすさ」と「堅牢な設計」を追求するエンジニア
+[![Findy Skill Score](https://img.shields.io/endpoint?url=https%3A%2F%2Ffindy-code.io%2Fapi%2Fv1%2Fusers%2FnR0KwIPkJyIaG%2Fskill_score_badge)](https://findy-code.io/share_profiles/nR0KwIPkJyIaG)
 
 実務未経験からエンジニアを目指し、**「保守性の高いコードとは何か」**を自問自答しながら開発に取り組んでいます。
 単に「動くもの」を作るだけでなく、**テストのしやすさ**を考慮した設計（SoC: 関心の分離）を徹底することで、バグの混入を防ぎ、変化に強いアプリケーションを構築することを得意としています。
@@ -33,7 +34,7 @@
 
 ###  外部評価
 - **Findy スキル偏差値: 61**
-- [Findy](https://findy-code.io/home)
+[![Findy Skill Score](https://img.shields.io/endpoint?url=https%3A%2F%2Ffindy-code.io%2Fapi%2Fv1%2Fusers%2FnR0KwIPkJyIaG%2Fskill_score_badge)](https://findy-code.io/share_profiles/nR0KwIPkJyIaG)
   - GitHub上のコード品質、テストコードの充実度、および継続的な開発姿勢において、現役エンジニア平均を超える高い評価をいただいています。
 
 ---
